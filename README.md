@@ -1,5 +1,11 @@
 # Retail Sales Performance Dashboard
 
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue)
+
+![Excel](https://img.shields.io/badge/Excel-Analysis-green)
+
+![Business Analysis](https://img.shields.io/badge/Business-Analytics-orange)
+
 ## Overview
 
 This project presents an interactive Tableau dashboard analysing retail sales performance across the United States using the Sample Superstore dataset.
