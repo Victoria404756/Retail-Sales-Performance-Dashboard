@@ -1,10 +1,9 @@
 # Retail Sales Performance Dashboard
 
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue)
-
-![Excel](https://img.shields.io/badge/Excel-Analysis-green)
-
-![Business Analysis](https://img.shields.io/badge/Business-Analytics-orange)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-0052CC)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 ## Overview
 
@@ -89,3 +88,12 @@ Retail-Sales-Performance-Dashboard
 ## Dataset
 
 Sample Superstore Dataset
+
+## Skills Demonstrated
+
+- Business Analysis
+- KPI Design
+- Dashboard Development
+- Data Visualisation
+- Executive Reporting
+- Business Recommendation
