@@ -33,6 +33,14 @@ This dashboard helps answer these questions through interactive visualisations.
 
 ---
 
+## Reports
+
+[View Business Requirements Document](report/Business_Requirements_Document.pdf)
+
+[View Executive Summary](report/Executive_Summary.pdf)
+
+---
+
 ## Dashboard Features
 
 - Executive KPI Cards
